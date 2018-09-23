@@ -1,3 +1,4 @@
 # Poker-Game
 
-This project allows a user to play a poker game which decides the best hand of 5 out of 7 cards. 
+This program deals 5 cards to table, 2 to computer, and 2 to user and then decides the best combination of cards for the user and for the computer and who would win. 
+
